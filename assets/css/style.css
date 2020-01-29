@@ -120,3 +120,14 @@ span {
 #p1, #p2 {
     margin: 0 28px;  
 }
+
+#submit {
+    background: #4aaaa5;
+    color: white;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    
+}

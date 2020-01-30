@@ -14,9 +14,9 @@ header {
     margin: 0 300px;
 }
 
-.header > h1 {
+.header>h1 {
     float: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, "Times New Roman", Times, serif;
     color: white;
     background: #4aaaa5;
     margin: 0;
@@ -29,14 +29,13 @@ header {
 }
 
 nav {
-
     float: right;
     text-align: center;
     vertical-align: middle;
     line-height: 100px;
 }
 
-nav > a {
+nav>a {
     color: #9fadc1;
     text-decoration: none;
     padding: 0 15px;
@@ -59,7 +58,6 @@ section {
     overflow: auto;
 }
 
-
 footer {
     position: fixed;
     background: #666666;
@@ -70,7 +68,6 @@ footer {
     bottom: 0;
     width: 100%;
     border-top: 8px #4aaaa5 solid;
-    
 }
 
 span {
@@ -78,14 +75,13 @@ span {
     bottom: 0;
 }
 
-.content{
+.content {
     position: absolute;
     top: 6%;
     right: 300px;
-    left: 300px; 
+    left: 300px;
     background-color: white;
-    /* margin: 0 300px; */
-    /* height: 500px;  */
+    margin-bottom: 50px;
     color: #928d97;
     border: 0.5px rgb(196, 196, 196) solid;
     font-size: 18px;
@@ -94,48 +90,42 @@ span {
     overflow: auto;
 }
 
-.content-por{
+.content-por {
     position: absolute;
     top: 6%;
     right: 300px;
-    left: 300px; 
+    left: 300px;
     background-color: white;
     margin-bottom: 50px;
-    height: 800px; 
+    height: 800px;
     color: #928d97;
     border: 0.5px rgb(196, 196, 196) solid;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 38px;
-
 }
-    
 
-
-.content > h1 {
+.content>h1 {
     color: #4aaaa5;
     border-bottom: 2px #e8e8e8 solid;
     height: 100px;
     margin: 0 28px;
     vertical-align: middle;
     line-height: 100px;
-    
 }
 
-.content-por > h1 {
+.content-por>h1 {
     color: #4aaaa5;
     border-bottom: 2px #e8e8e8 solid;
     height: 100px;
     margin: 0 28px;
     vertical-align: middle;
     line-height: 100px;
-    
 }
 
 .fix {
     margin: 0 28px;
     overflow: auto;
-    
 }
 
 #index-img {
@@ -146,8 +136,9 @@ span {
     height: 150px;
 }
 
-#p1, #p2 {
-    margin: 0 28px;  
+#p1,
+#p2 {
+    margin: 0 28px;
 }
 
 #p2 {
@@ -163,23 +154,22 @@ span {
     vertical-align: middle;
     line-height: 25px;
     margin-bottom: 20px;
-    
 }
 
 .form {
     margin: 0 28px;
-    
 }
 
-.form > input, textarea {
+.form>input,
+textarea {
     width: 100%;
 }
 
-.form > textarea {
+.form>textarea {
     height: 100px;
 }
 
-.port-images > img {
+.port-images>img {
     margin-right: 15px;
     margin-bottom: 15px;
     width: 200px;
@@ -205,14 +195,12 @@ span {
     width: 200px;
     height: 40px;
     text-align: center;
-
 }
 
 #por-img2 {
     position: absolute;
     top: 140px;
     left: 243px;
-
 }
 
 #por-p2 {
@@ -226,7 +214,6 @@ span {
     width: 200px;
     height: 40px;
     text-align: center;
-
 }
 
 #por-img3 {
@@ -244,7 +231,6 @@ span {
     width: 200px;
     height: 40px;
     text-align: center;
-
 }
 
 #por-img4 {
@@ -264,9 +250,7 @@ span {
     width: 200px;
     height: 40px;
     text-align: center;
-
 }
-
 
 #por-img5 {
     position: absolute;
@@ -283,6 +267,4 @@ span {
     width: 200px;
     height: 40px;
     text-align: center;
-
 }
-
